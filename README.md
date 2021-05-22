@@ -70,3 +70,15 @@ Step 3: Then go to Home APP to add our smart bulb to start control it(details st
 Here is the link to Amazon:
 
 https://www.amazon.com/DoHome-Changing-Compatible-Assistant-Multicolor/dp/B092VJ7SRR
+
+
+How to Control Smart Bulb?
+Step 1: Log in and sign up your DoHome APP and confirm the phone is connected to WiFi(ONLY 2.4G WiFi supported), and click the upper right corner “+” icon in DoHome APP.
+
+Step 2: Select the corresponding Color Bulb(Wi-Fi) device icon and input the router password.
+
+Step 3: Power on the bulb and confirm it is in factory mode(LED flash). Then open phone’s WiFi setting and connect the WiFi named “DoHome_***”
+
+Step 4: Retuen to the DoHome APP and wait the network configuration finishing. Then customize the device name in your convenience and start control.
+
+Step 5: Reset the device. Power on/off for three times or long press the button for 5S. If the light flashing, that means the device is in factory mode.
