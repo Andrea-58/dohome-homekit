@@ -18,9 +18,9 @@ Average Life: 25000 Hours
 
 
 Features: 
-App remote control, voice control, Schedules and Timers, light dim setting, works with Alexa, Google Assistant, Apple Homekit and other smart voice device, for more please refer yo the usern manual.
+App remote control, voice control, Schedules and Timers, light dim setting, works with Alexa, Google Assistant, Apple Homekit and other smart voice device, for more please refer yo the user manual.
 
-![6](https://user-images.githubusercontent.com/83849573/118628785-86244700-b7ff-11eb-8f7f-0bf83b4e32a1.jpg)
+![6](https://user-images.githubusercontent.com/83849573/119629777-e9862880-be40-11eb-87d8-6ae883ffc9bc.jpg)
 
 Sync with music, DoHome smart led bulbs can be activated up and down by the decibel of surrounding sound through micro phone function, but also jumping with the rhythm of music in different color. Enhance the romantic or joyful atmosphere for certain occasions.
 
@@ -33,7 +33,7 @@ With our free DoHome APP on your phone, you can take control of your smart light
 
 https://www.amazon.com/DoHome-Changing-Compatible-Assistant-Multicolor/dp/B092VJ7SRR
 
-How to control DoHome smart bulb:
+How to connect DoHome smart bulb with phone:
 Step 1: Log in and sign up your DoHome APP and confirm the phone is connected to WiFi(ONLY 2.4G WiFi supported), and click the upper right corner “+” icon in DoHome APP.
 
 Step 2: Select the corresponding Color Bulb(Wi-Fi) device icon and input the router password.
@@ -65,6 +65,7 @@ Step 1：Works with Apple Homekit based on our DoHome APP after connected the sm
 Step 2: Long press the bulb icon on device page to tap the HomeKit mode.
 
 Step 3: Then go to Home APP to add our smart bulb to start control it(details steps to connect please refer to our usual manual).
+
 ![5](https://user-images.githubusercontent.com/83849573/118631355-fc29ad80-b801-11eb-9e1e-f1067c3030fe.jpg)
 
 Here is the link to Amazon:
@@ -72,13 +73,3 @@ Here is the link to Amazon:
 https://www.amazon.com/DoHome-Changing-Compatible-Assistant-Multicolor/dp/B092VJ7SRR
 
 
-How to Control Smart Bulb?
-Step 1: Log in and sign up your DoHome APP and confirm the phone is connected to WiFi(ONLY 2.4G WiFi supported), and click the upper right corner “+” icon in DoHome APP.
-
-Step 2: Select the corresponding Color Bulb(Wi-Fi) device icon and input the router password.
-
-Step 3: Power on the bulb and confirm it is in factory mode(LED flash). Then open phone’s WiFi setting and connect the WiFi named “DoHome_***”
-
-Step 4: Retuen to the DoHome APP and wait the network configuration finishing. Then customize the device name in your convenience and start control.
-
-Step 5: Reset the device. Power on/off for three times or long press the button for 5S. If the light flashing, that means the device is in factory mode.
